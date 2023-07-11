@@ -24,5 +24,8 @@ Unprocessed Image | Grayscale Image
 
 ### Manuscript Image
 #### Image Processing
-
+![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/30706b92-00ce-48b2-9d12-07800d3548c4) | ![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/3fc4f6c3-6f65-4746-8c7b-ea08e22324c1)
+--- | --- 
+Unprocessed Image | Grayscale Image 
 #### Predictions
+![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/e9039e46-5f98-4778-8afb-1b0f84a9a981)
