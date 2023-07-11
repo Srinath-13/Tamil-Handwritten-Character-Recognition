@@ -8,6 +8,10 @@ The recognition of Tamil manuscript characters is a crucial task with applicatio
 * CharacterRecognition.ipynb: Image preprocessing and character recognition
 * Dataset: [Handwritten Tamil Character Dataset](https://lipitk.sourceforge.net/datasets/tamilchardata.htm)
 
+## Project Workflow
+
+<img width="452" alt="7" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/31b4a4f4-ef0d-4c58-b905-c4b089867058">
+
 ## Model Architecture
 
 <img width="222" alt="cnn2" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/49f2207a-5ade-44f1-bf58-d31066032d90">
