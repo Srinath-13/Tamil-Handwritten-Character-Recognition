@@ -10,26 +10,26 @@ The recognition of Tamil manuscript characters is a crucial task with applicatio
 
 ## Project Workflow
 
-<img width="452" alt="7" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/31b4a4f4-ef0d-4c58-b905-c4b089867058">
+<img width="452" alt="7" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/65442ef6-2a51-445a-95de-8de0761fddb0">
 
 ## Model Architecture
 
-<img width="222" alt="cnn2" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/49f2207a-5ade-44f1-bf58-d31066032d90">
+<img width="222" alt="cnn2" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/20f6b465-2d3c-408a-896e-14ad4ee36536">
 
 ## Results
 
 ### Handwritten Image
 #### Image Processing
-<img width="220" alt="1" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/37970752-4724-45d3-b064-9623dc92499d"> | <img width="218" alt="2" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/1fccb2f4-e74e-4f43-a31b-9195cf11c232">
+<img width="220" alt="1" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/e7c3ca64-b5a2-4cc9-8a23-99efcf7756ac"> | <img width="218" alt="2" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/793e371b-6abb-4fdd-acec-b1582ac48cdb">
 --- | --- 
 Unprocessed Image | Grayscale Image 
 #### Predictions
-![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/7c4d808f-c588-4500-b49d-583abffc4c84)
+<img width="146" alt="3" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/5e3ebbc2-8c55-412d-a5a0-6842d5668af4">
 
 ### Manuscript Image
 #### Image Processing
-![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/30706b92-00ce-48b2-9d12-07800d3548c4) | ![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/3fc4f6c3-6f65-4746-8c7b-ea08e22324c1)
+<img width="229" alt="4" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/47854556-a8c0-4c42-81d8-7394c22cb03c"> | <img width="230" alt="5" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/27886bcd-680b-4d4f-8435-8f0aec0d347a">
 --- | --- 
 Unprocessed Image | Grayscale Image 
 #### Predictions
-![image](https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/e9039e46-5f98-4778-8afb-1b0f84a9a981)
+<img width="227" alt="6" src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/82100004/52d42116-73e9-4e7e-8fab-2b1b6902bad6">
